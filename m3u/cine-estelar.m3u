@@ -1,45 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
-#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="" group-title="Pluto TV",Cine Estelar
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="Pluto TV",Cine Estelar
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=553fd817-89f1-40e6-a557-c431984d690a&deviceVersion=90.0.4480&appVersion=6.5.1-91b75191d0d2a319cfd4c24bd797a393ac0aac2b&deviceType=web&deviceMake=opera&sid=3a972f4b-3b53-11ed-8bb5-0242ac110003&advertisingId=&deviceLat=-42.762&deviceLon=-65.0539&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyMTIwMTE5LWY5YTAtNDQwNC04YjE1LWRkOTNiYWY5NjBmZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzYTk3MmY0Yi0zYjUzLTExZWQtOGJiNS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjIxNi4yNDQuMjMyLjI0NiIsImNpdHkiOiJQdWVydG8gTWFkcnluIiwicG9zdGFsQ29kZSI6IjkxMjAiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotNDIuNzYyLCJkZXZpY2VMb24iOi02NS4wNTM5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5MC4wLjQ0ODAiLCJkZXZpY2VNYWtlIjoib3BlcmEiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi41LjEtOTFiNzUxOTFkMGQyYTMxOWNmZDRjMjRiZDc5N2EzOTNhYzBhYWMyYiIsImNsaWVudElEIjoiNTUzZmQ4MTctODlmMS00MGU2LWE1NTctYzQzMTk4NGQ2OTBhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQXJnZW50aW5hL0NhdGFtYXJjYSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NjM5NzUyMTYsImp0aSI6IjM0NzNkNjZlLWYzODUtNDM0Mi1hOGRmLWRkOTFkMTNlYzFiZiIsImlhdCI6MTY2Mzk0NjQxNiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5UVXpabVE0TVRjdE9EbG1NUzAwTUdVMkxXRTFOVGN0WXpRek1UazROR1EyT1RCaCJ9.6bh-Xq5c6rvhH-i79nVSeJeVuUD6jfQXputdV_RJ8EU
-#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/hyRmzWL.png" group-title="Pluto TV",AVA Family (720p) [Not 24/7]
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Pluto TV",Chicos IPe (1080p) [Not 24/7]
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Pluto TV",Dove Channel (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="Pluto TV",FilmRise Family (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmTVKinder.ua" tvg-logo="https://i.imgur.com/nH4Krbm.png" group-title="Pluto TV",FilmTV Kinder (400p) [Not 24/7]
-https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Pluto TV",My Family Channel (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-logo="https://i.imgur.com/H6IRGOd.png" group-title="Pluto TV",Pink Family (576p)
-http://109.105.201.198/PINKFAMILY/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFamily.us" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Family (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="Pluto TV",Positiv (720p)
-https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyAustria.at" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Austria (720p)
-https://rakuten-family-5-at.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyGermany.de" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Germany (720p)
-https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilySpain.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Spain (720p)
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilySwitzerland.ch" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
-https://rakuten-family-4-ch.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RealFamiliesAustralia.us" tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Pluto TV",Real Families (Australia) (720p)
-https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pluto TV",The Pet Collective (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ad55268cae539bcedb08&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=637&terminate=false&userId=
-#EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Pluto TV",The Pet Collective Europe (720p)
-https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-logo="https://i.imgur.com/ixIePRp.png" group-title="Pluto TV",TV Familia (720p)
-https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
-#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="Pluto TV",TVS Family Channel (360p)
-https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/pJNWVAz.png" group-title="Pluto TV" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="STSLove.ru" tvg-logo="https://i.imgur.com/MfNHR0L.png" group-title="Pluto TV" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="02.id" tvg-logo="" group-title="Pluto TV",America TV
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
+
+
