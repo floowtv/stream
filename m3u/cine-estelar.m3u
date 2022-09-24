@@ -1,5 +1,22 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="Netflix",Pelicula 2016
-https://www690.ff-02.com/token=Wc1-FxZjQP1rpZU9mxqPMw/1663967460/0.0.0.0/73/7/eb/5299747e2648a0676a1232796f145eb7-720p.mp4
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="Netflix",fembed1
-https://tool.baoxinh.com/www/r?token=Tm9VZ3U1MmFOZjBRdTl4MDhQOU5WNjFodzBJTG0vS2ZHQW00SHhRTTUrZ3pWV1BRQUxFT2hnbG1nNTFzeVRvYVhFbGFKMStiN3pKa3ZFSVFpWGFidnI3eFVaaXBJdGNpazJiY0YrbXFhUEZqaldVYk9Na3JOU09veFBwQTZ4ZmFsb0RmNDR1RVluUFZ1ek1ueDRMYzlLYjdlaVBIQlhzcG9vUWZSODhERWkrWTlENHdVYUVZMDlIRkdkY1FPQm1JMkc5SkRjSzZvRzZyRnpsdHY1TlZ3SnE1WHJpMC9mVXcySDJFMGEvbW1KMWZidGNENXRrZ1Iwb0xFOXUxMHBnTmZGa0wzdkk5Wktha0YvTDJsanNIQmc9PQ==
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",El perfumista (2022)
+https://content.jwplatform.com/videos/SUAIbxvV-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Speak No Evil (2022)
+https://content.jwplatform.com/videos/GJnMvTe4-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Miénteme (2022)
+https://content.jwplatform.com/videos/qmUb04Pv-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Meet Cute (2022)
+https://content.jwplatform.com/videos/0C1CMsUb-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Los Monsters (2022)
+https://content.jwplatform.com/videos/GAfo7pJT-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Esperando a Mister Bojangles (2022)
+https://content.jwplatform.com/videos/o1sTBydd-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Declaración de emergencia (2022)
+https://content.jwplatform.com/videos/UDHCN32G-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",La invitación (2022)
+https://content.jwplatform.com/videos/EoLnTJeC-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Skandal!: La Caída de Wirecard (2022)
+https://content.jwplatform.com/videos/PbD7jWMD-640.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Yo era famoso (2022)
+https://content.jwplatform.com/videos/OCEqITJn-640.mp4
+
