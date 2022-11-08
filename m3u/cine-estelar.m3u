@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",El perfumista (2022)
 https://content.jwplatform.com/videos/SUAIbxvV-640.mp4
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Stream (2022)
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",TN
+https://madryntv-origin001.sotalcloud.com/contentserver/v2/distributions/17028938/content/6BB3599497B50100/5D61494798960200/m.m3u8
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Speak No Evil (2022)
 https://content.jwplatform.com/videos/GJnMvTe4-640.mp4
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Miénteme (2022)
