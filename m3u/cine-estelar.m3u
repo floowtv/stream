@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
+
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",El perfumista (2022)
 https://content.jwplatform.com/videos/SUAIbxvV-640.mp4
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2024",007
@@ -25,4 +25,17 @@ https://server42.porekosa.autos/index2.php?v=Y3pqL29LeVUxaVFsV3pKb25tRlRkSDh1eUZ
 https://server46.sukodanos.lol/index2.php?v=Rk1IenVLeHNYYzFIalRlQzBic1ppNkx0eXUzdjh6ME9DV1MrdDUwWGxweFlpYnpWYTcyM05OeGJkaVBHUGdxeQ==&t=1677660371&res=720
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2019",TNT SPORTS
 https://live.telelatinohd.com:8080/MjE2LjI0NC4yMzIuMjQ2/9_.m3u8
-
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",1
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",2
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",3
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",4
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",5
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",6
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",7
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/35d4b4a4-6a20-4a5a-82b4-b13188dbc74e/5.m3u8
