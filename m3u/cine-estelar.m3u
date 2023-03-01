@@ -42,8 +42,8 @@ https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/35d4b4a4-6a20-4a5a-82b4-b13188dbc74e/5.m3u8
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="series",mandalorian
 https://tc-15x.hezcdn.com/1ab5d45273a9183bebb58eb74d5722d8ea6384f350caf008f08cf018f1f0566d0cb82a2a799830d1af97cd3f4b6a9a81ef3aed2fb783292b1abcf1b8560a1d1aa308008b88420298522a9f761e5aa1024fbe74e5aa853cfc933cd1219327d1232e91847a185021b184c027f97ae732b3708ee6beb80ba5db6628ced43f1196fe/ec3aba4edaa5239581e8e4ac373c26ac/ep.1.v1.1677667457.720.m3u8
-
-
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="series",avatar
+https://tc-16x.tenycdn.com/1ab5d45273a9183bebb58eb74d5722d8ea6384f350caf008f08cf018f1f0566d0cb82a2a799830d1af97cd3f4b6a9a81ef3aed2fb783292b1abcf1b8560a1d1aa308008b88420298522a9f761e5aa1024fbe74e5aa853cfc933cd1219327d1232e91847a185021b184c027f97ae732b3708ee6beb80ba5db6628ced43f1196fe/787ec066d688b29aa718e8e8d7131122/ep.0.v27.1677124025.720.m3u8
 
 
 
