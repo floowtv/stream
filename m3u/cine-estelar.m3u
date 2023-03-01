@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",El perfumista (2022)
 https://content.jwplatform.com/videos/SUAIbxvV-640.mp4
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2024",alldebrid
-https://r8j4ym.debrid.it/dl/2ohdejdfd88/Nicol%C3%A1s.mp4
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2024",00000
+https://r8j4ym.debrid.it/dl/2ohdejdfd88
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Miénteme (2022)
 https://content.jwplatform.com/videos/qmUb04Pv-640.mp4
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="2022",Meet Cute (2022)
