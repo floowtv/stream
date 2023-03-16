@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html style="background-color: #000000"> 
+ <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+<body> 
+
+
+
+
+<div class="video-container ">
+<video id='hls-example'  style="display:block; width:100%; height:100vh;" class="video-js vjs-default-skin"  controls>
+<source type="application/x-mpegURL" src="https://tc-15x.hezcdn.com/1ab5d45273a9183bebb58eb74d5722d8ea6384f350caf008f08cf018f1f0566d0cb82a2a799830d1af97cd3f4b6a9a81ef3aed2fb783292b1abcf1b8560a1d1aa308008b88420298522a9f761e5aa1024fbe74e5aa853cfc933cd1219327d1232e91847a185021b184c027f97ae732b3708ee6beb80ba5db6628ced43f1196fe/b417d1268687d6260aacf26017772857/ep.0.v2.1678808604.1080.m3u8">
+</video>
+</div>
+
+<!-- JS code -->
+<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+<script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+<script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+
+<script>
+var player = videojs('hls-example');
+player.play();
+</script>
+
+
+</body> 
+</html>
