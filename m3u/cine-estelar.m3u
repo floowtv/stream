@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",1
+#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",1, Subtítulos en Español
+#EXTVLCOPT:sub-file=https://raw.githubusercontent.com/brenopolanski/html5-video-webvtt-example/master/MIB2-subtitles-pt-BR.srt
 https://lzoy.vidrock2.store/_v1/12a3c523f3105800ed8c394685aeeb0b952eac5c5ce7baf310477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5375f0d1338246f60548af5a449df4ec/h/efefbea4/fa;15a38423fd105b47af8c641bd2a6eb029527ab4e5dbfbeb24b4268aca13b.m3u8
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",cart
 https://madryntv-origin001.sotalcloud.com/contentserver/v2/distributions/17028981/content/6BB3599497B50100/6BB3599497B50200/m.m3u8?sctktid=XRudBEikkH8RbfR4kbuP
