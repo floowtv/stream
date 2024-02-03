@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="Movies", Pelicula
 https://lzoy.vidrock2.store/_v1/12a3c523f3105800ed8c394685aeeb0b952eac5c5ce7baf310477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5375f0d1338246f60548af5a449df4ec/h/efefbea4/fa;15a38423fd105b47af8c641bd2a6eb029527ab4e5dbfbeb24b4268aca13b.m3u8
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,URI="https://cdmdemo.contentdm.oclc.org/utils/getfile/collection/p15700coll2/id/18/filename/video2.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,URI="https://cdmdemo.contentdm.oclc.org/utils/getfile/collection/p15700coll2/id/18/filename/video2.srt"
