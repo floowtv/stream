@@ -1,25 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",test
-https://lzoy.vidrock2.store/_v1/12a3c523f3105800ed8c394685aeeb0b952eac5c5ce7baf310477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5375f0d1338246f60548af5a449df4ec/h/efefbea4/fa;15a38423fd105b47af8c641bd2a6eb029527ab4e5dbfbeb24b4268aca13b.m3u8
-#EXT-X-VERSION:6
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",URI="https://raw.githubusercontent.com/brenopolanski/html5-video-webvtt-example/master/MIB2-subtitles-pt-BR.srt"
-#EXT-X-STREAM-INF:BANDWIDTH=313871,RESOLUTION=640x360,SUBTITLES="subs"
-https://lzoy.vidrock2.store/_v1/12a3c523f3105800ed8c394685aeeb0b952eac5c5ce7baf310477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5375f0d1338246f60548af5a449df4ec/h/efefbea4/fa;15a38423fd105b47af8c641bd2a6eb029527ab4e5dbfbeb24b4268aca13b.m3u8
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",cart
-https://madryntv-origin001.sotalcloud.com/contentserver/v2/distributions/17028981/content/6BB3599497B50100/6BB3599497B50200/m.m3u8?sctktid=XRudBEikkH8RbfR4kbuP
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",fox
-https://madryntv-origin001.sotalcloud.com/contentserver/v2/distributions/17028967/content/9CBA4541FDDE0100/9CBA4541FDDE0200/m.m3u8?sctktid=Jc9VynbzJ5lKpvG03o3b
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",4
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",5
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",6
-https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="CANALES",7
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/35d4b4a4-6a20-4a5a-82b4-b13188dbc74e/5.m3u8
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="series",1234
-https://media.esplay.one/63bcb4f424c32d779f017269
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="series",123
-https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18F3aRzOpuNfXhnW8%2BR1FWjeU5CEjHet0x%2B4oMO1HG36VHM%2BXys9L%2Fk
-#EXTINF:-1 tvg-id="01.id" tvg-logo="" group-title="series",asd
-https://ff69a888da2111931f3261b0544d6a16834fa8d41803f3170a3fbac-apidata.googleusercontent.com/download/storage/v1/b/bisco-01/o/63bcb4f424c32d779f017269.mp4?jk=ARTXCFE7x5ZVAa0AwOkXp9WZwLAH6qbMffQ-q25k1Y4DcCzMgOPXbXzOPU-huEUo-a-6Znzfi3n0dTJFwcfVasAcbGj-81Eoy8qWtsZLFb2jXMUiPghF347ZrYG1vkP_qOo6vhjLfYsZT2Zov5HjwxsW7ozRcJOWQhWa6SvGqB72GYEka7Y1ZCwjowMxCVF5BiCr9d42wvG7t053FG6NdTd4Z7ukeEY9XnppTxin1zPTzZ6aGA0wILdvtYDJIctTHYpGf5HkGNA-f7EGgpeG3ltdhPNe7lXRdmEUDQCumJtTkwSI22kpM6p1tqGOUZlEyHTsejIU4oxHBy5NlakW07W3-otW7FCYEukf9sgsc7riOdWUK85x4qb5N2OpSqUq5IpQn86HfNtH9xai7NAKcQQXU_vmo5m7TrEZVA0A0jRgxPK_f2d4TwrqXYhYE6RxxP15qJTizECcP95LOGwWyRZp7kAq8RYku-l3OJ3TYWpwlAut0dWpdyH1SwcS4WQdlEvymxQiB2LZq1TJvRnm13W1vG_imxn45gWWcgozKRNviMHxN5BVmCIpdGNBkKiUdzGveWXwHmCr9Jjk1UswAaEwL2Db2mwSfZEWbKDg4w_LLz5rfcqTGvSepZZiKtDMeOxDedlDBenCLi5PUGjF5Kh2t6FcGrOEEyZGzLC1b1UM5O1DshPkgF7HVrHDGirWfGERjrkj_ME0reRm_w4AxNl8MFdm2DTEADDfWU49I--fKEr6_CAHkQy-mAfFCAhhXMdQOLC3Rcr4xIreA97aTO7GlTqbbmzqDmGlb8LhEwHaXdoySZCjxlPTohKPdE8hSly2IlLpulRb3hJFmqKvRdQucNwrAGznbxKDixadtI_D5m1rSMiVhXlge8a4zhfrFCIKGc2QrebUXzGdtzSgdhiOiTAGgCEirjK69WvQ4d1WzYR4FQzR59WRgwDWIguw1eOCqE1GEEs43yaPVbwO3YlLGgSkxFqKjuzGoYrXc9vLU8sHmAGtGnGXuvlpA4BtNgL6q4lI8SJ27c5S0CUrw59pDQGRnDe_i1mfEPntPnhYf45q6CTZNbX1gcWczfInUs7dmNGz0Wi_DX4QKO-h3lQ2aDvvHy-YbS9GDn2355EYiunppFoK8XSOzGumR0VDqhYLiP4nQ0sUX6g1SUs91lPoGJDI7TpieaasRvKjxrrRBqPhKwWiKY_rhqMVAxAUINsZRip9s5L3O68
+https://olmr.vidrock2.store/_v1/12a3c523f3105800ed8c394685aeeb0b9b2ef95c5bb0b7f4001e7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23b5575f4d5749544f85b4deb0d11c3b4bc6e4e79136261d17145/h/bbcffa4/fdbafcd;15a38423fd105b47af8c641bd2a6eb029527ab4e5dbfbeb5434368a5a63c.m3u8
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Español",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,URI="https://cdmdemo.contentdm.oclc.org/utils/getfile/collection/p15700coll2/id/18/filename/video2.vtt"
